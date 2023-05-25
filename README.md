@@ -1,16 +1,13 @@
-### Hi there 👋
+# Rodrigo Graça
 
-<!--
-**rodrigograc4/rodrigograc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contact me:
 
-Here are some ideas to get you started:
+<p align="left">
+<a href="https://instagram.com/rodrigograc4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigograc4" height="30" width="40" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<a href="https://github.com/rodrigograc4">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigograc4&theme=tokyonight&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigograc4&theme=tokyonight&layout=compact" />
+</a>
