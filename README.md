@@ -24,9 +24,9 @@
 <hr>
 
 # 🎶 Vibing to
-<a>
-  <img src="https://rodrigograc4-spotify-readme.vercel.app/api" alt="Current Spotify Song">
-</a>
+<div align="center">
+  <img src="https://rodrigograc4-spotify-readme.vercel.app/api?scan=true?theme=dark" alt="Current Spotify Song">
+</div>
 
 <br>
 
