@@ -10,6 +10,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigograc4&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigograc4" /> </p>
 
+
+# 📜 Quote
 <hr>
 
 <div align="center">
@@ -18,6 +20,7 @@
 
 <hr>
 
+# 🎶 Vibing to
 <a>
   <img src="https://rodrigograc4-spotify-readme.app/api" alt="Current Spotify Song">
 </a>
@@ -32,7 +35,7 @@
 
 <br>
 
-# 📊 Stats:
+# 📈 Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=65B927&icon_color=285209&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4"  /></p>
 
 <p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=65B927&icon_color=285209&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4" /></p>
