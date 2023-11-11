@@ -19,7 +19,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=65B927&center=true&vCenter=true&width=900&lines=I+know+what+I+want.;I+know+what+kind+of+god+I+need+to+be...;for+you.;For+all+of+us." alt="Typing SVG" />
 </div>
-<small style="text-align: left; margin-left: 20px">Loki</small>
+<small style="text-align: right; margin-left: 50px">Loki</small>
 
 <hr>
 
