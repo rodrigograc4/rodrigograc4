@@ -1,5 +1,12 @@
-<h1 align="center">Rodrigo Graça</h1>
-<h3 align="center">Student of Software Engineering at Universidade de Aveiro</h3>
+<div align="center">
+  <img
+    alt="Profile Picture"
+    src="https://avatars.githubusercontent.com/u/117362800?v=4"
+  />
+</div>
+
+<h1 align="center">Hey there, I'm Rodrigo</h1>
+<h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigograc4&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigograc4" /> </p>
 
