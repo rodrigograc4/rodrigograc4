@@ -7,8 +7,6 @@
 
 <h1 align="center">Hey there, I'm Rodrigo</h1>
 
-<hr>
-
 <h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigograc4&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigograc4" /> </p>
@@ -16,12 +14,14 @@
 
 # 📜 Quote
 
+<hr>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=65B927&center=true&vCenter=true&width=900&lines=I+know+what+I+want.;I+know+what+kind+of+god+I+need+to+be...;for+you.;For+all+of+us." alt="Typing SVG" />
   <small style="text-align: left; margin-left: 20px">Loki</small>
 </div>
 
-<br>
+<hr>
 
 # 🎶 Vibing to
 <a>
