@@ -3,13 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigograc4&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigograc4" /> </p>
 
-<hr style="border: none; border-top: 2px solid red;">
+<hr>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=C00000&center=true&vCenter=true&width=900&lines=I+know+what+I+want.;I+know+what+kind+of+god+I+need+to+be...;for+you.;For+all+of+us." alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=65B927&center=true&vCenter=true&width=900&lines=I+know+what+I+want.;I+know+what+kind+of+god+I+need+to+be...;for+you.;For+all+of+us." alt="Typing SVG" /></a>
 </div>
 
-<hr style="border: none; border-top: 2px solid red;">
+<hr>
+
+<a href="https://github.com/rodrigograc4/Spotify-Readme">
+  <img src="https://spotify-readme-ten-sigma.vercel.app/api" alt="Current Spotify Song">
+</a>
 
 # 🌐 Socials:
 <p align="left">
@@ -22,8 +26,8 @@
 <br>
 
 # 📊 Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=C00000&icon_color=6A0000&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=65B927&icon_color=285209&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4"  /></p>
 
-<p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=C00000&icon_color=6A0000&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4" /></p>
+<p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=65B927&icon_color=285209&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FFFFFF&theme=transparent&ring=C00000&fire=C00000&currStreakLabel=FFFFFF&stroke=C00000&dates=6A0000&sideLabels=FFFFFF" alt="rodrigograc4" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FFFFFF&theme=transparent&ring=65B927&sideNums=FFFFFF&currStreakNum=FFFFFF&fire=65B927&currStreakLabel=65B927&stroke=65B927&dates=285209&sideLabels=65B927" alt="rodrigograc4" /></p>
