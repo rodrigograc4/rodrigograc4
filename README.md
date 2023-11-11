@@ -11,8 +11,8 @@
 
 <hr>
 
-<a href="https://github.com/rodrigograc4/Spotify-Readme">
-  <img src="https://spotify-readme-ten-sigma.vercel.app/api" alt="Current Spotify Song">
+<a>
+  <img src="https://rodrigograc4-spotify-readme.app/api" alt="Current Spotify Song">
 </a>
 
 # 🌐 Socials:
