@@ -5,7 +5,7 @@
   />
 </div>
 
-<div style="text-align: center; font-size: 2em;">Hey there, I'm Rodrigo</div>
+<h1 align="center">Hey there, I'm Rodrigo</h1>
 
 
 <h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
@@ -18,7 +18,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&pause=1000&color=65B927&center=true&vCenter=true&width=900&lines=I+know+what+I+want.;I+know+what+kind+of+god+I+need+to+be...;for+you.;For+all+of+us." alt="Typing SVG" />
 </div>
 <div align="right"">
- <h7>Loki</h7>
+ <h6>Loki</h6>
 </div>
 
 <br>
