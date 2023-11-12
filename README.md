@@ -6,7 +6,7 @@
 </div>
 
 <div>
-  <h1 align="center">Hey there, I'm Rodrigo</h1>
+  <big align="center">Hey there, I'm Rodrigo</big>
 </div>
 <div>
   <h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
