@@ -1,7 +1,7 @@
 <div align="center">
   <img
     alt="Profile Picture"
-    src="Images/Back.png"
+    src="Images/BackProfile.png"
   />
 </div>
 
