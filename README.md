@@ -15,7 +15,7 @@
 <h2>📜 Quote</h2>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&duration=500&pause=500&color=65B927&center=true&vCenter=true&width=900&lines=I+know+what+I+want.;I+know+what+kind+of+god+I+need+to+be...;for+you.;For+all+of+us." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&duration=2000&pause=500&color=65B927&center=true&vCenter=true&width=900&lines=I+know+what+I+want.;I+know+what+kind+of+god+I+need+to+be...;for+you.;For+all+of+us." alt="Typing SVG" />
 </div>
 <div align="center">
  <small>Loki</small>
