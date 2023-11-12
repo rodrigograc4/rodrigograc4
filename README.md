@@ -30,8 +30,7 @@
   <img src="https://rodrigograc4-spotify-readme.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </div>
 
-
-# <h3>🌐 Socials:</h3>
+<h3>🌐 Socials:</h3>
 <p align="left">
 <a href="https://fb.com/rodrigo graça" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodrigo graça" height="30" width="40" /></a>
 <a href="https://instagram.com/rodrigograc4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigograc4" height="30" width="40" /></a>
