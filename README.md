@@ -30,7 +30,6 @@
   <img src="https://rodrigograc4-spotify-readme.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </div>
 
-<br>
 
 # <h3>🌐 Socials:</h3>
 <p align="left">
