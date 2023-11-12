@@ -5,23 +5,21 @@
   />
 </div>
 
-<hr>
+<h1 align="center">Hey there, I'm Rodrigo</h1>
+
+
+<h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
+
+<br>
+
+<h2>📜 Quote</h2>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caprasimo&weight=600&size=30&duration=3000&pause=500&color=65B927&center=true&vCenter=true&width=900&lines=I+know+what+I+want.;I+know+what+kind+of+god+I+need+to+be...;for+you.;For+all+of+us." alt="Typing SVG" />
 </div>
 <div align="center">
  <small>Loki</small>
 </div>
-<hr>
-
-<br>
-<h1 align="center">Hey there, I'm Rodrigo</h1>
-
-
-<h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
-
-
-
 
 <br>
 
