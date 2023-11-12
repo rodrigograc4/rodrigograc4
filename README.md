@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigograc4&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigograc4" /> </p>
 
 
-<h2>📜 Quote</h2>
+<h3>📜 Quote</h3>
 
 <hr>
 
