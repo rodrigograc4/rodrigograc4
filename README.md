@@ -9,10 +9,9 @@
 
 <h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigograc4&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigograc4" /> </p>
+<br>
 
-
-<h3>📜 Quote</h3>
+<h2>📜 Quote</h2>
 
 <hr>
 
@@ -25,12 +24,16 @@
 
 <hr>
 
-<h3>🎶 Vibing to</h3>
+<br>
+
+<h2>🎶 Vibing to</h2>
 <div align="center">
   <img src="https://rodrigograc4-spotify-readme.vercel.app/api?theme=dark" alt="Current Spotify Song">
 </div>
 
-<h3>🌐 Socials:</h3>
+<br>
+
+<h2>🌐 Socials:</h2>
 <p align="left">
 <a href="https://fb.com/rodrigo graça" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rodrigo graça" height="30" width="40" /></a>
 <a href="https://instagram.com/rodrigograc4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigograc4" height="30" width="40" /></a>
@@ -40,7 +43,7 @@
 
 <br>
 
-<h3>📈 Stats:</h3>
+<h2>📈 Stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=65B927&icon_color=285209&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4"  /></p>
 
 <p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=65B927&icon_color=285209&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4" /></p>
