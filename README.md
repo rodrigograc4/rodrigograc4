@@ -5,12 +5,10 @@
   />
 </div>
 
-<div>
-  <big align="center">Hey there, I'm Rodrigo</big>
-</div>
-<div>
-  <h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
-</div>
+<div style="text-align: center; font-size: 2em;">Hey there, I'm Rodrigo</div>
+
+
+<h3 align="center">I'm a Student of Software Engineering at Universidade de Aveiro</h3>
 
 <br>
 
