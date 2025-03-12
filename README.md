@@ -23,13 +23,6 @@
 
 <br>
 
-<h2>🎶 Vibing to</h2>
-<div align="center">
-  <img src="https://rodrigograc4-spotify-readme.vercel.app/api?theme=dark" alt="Current Spotify Song">
-</div>
-
-<br>
-
 <h2>🌐 Socials:</h2>
 <p align="center">
 <a href="mailto:rodrigomgraca@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rodrigo graça"/></a>
