@@ -1,8 +1,8 @@
-<h5>Hello, welcome to my github :)</h5>
+<h4>Hello, welcome to my github :)</h4>
 
 <br>
 
-<h2>🌐 Socials:</h2>
+<h3>🌐 Socials:</h3>
 <p>
 <a href="mailto:rodrigomgraca@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rodrigo graça"/></a>
 <a href="https://www.facebook.com/profile.php?id=100007176228855" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="rodrigo graça"/></a>
@@ -12,7 +12,7 @@
 
 <br>
 
-<h2>📈 Stats:</h2>
+<h3>📈 Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=65B927&icon_color=285209&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4"  /></p>
 
 <p>&nbsp;<img align="center" color="black" src="https://github-readme-stats.vercel.app/api?username=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=65B927&icon_color=285209&text_color=c9d1d9&bg_color=0d1117" alt="rodrigograc4" /></p>
