@@ -1,5 +1,7 @@
 <h4>Hello, welcome to my github :)</h4>
 
+<br>
+
 <h3>🌐 Socials:</h3>
 <p>
 <a href="mailto:rodrigomgraca@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rodrigo graça"/></a>
@@ -13,9 +15,6 @@
 <h3>📈 Stats:</h3>
 <p><img src="/github-metrics.svg" alt="Metrics"></p>
 
+<br>
 
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21i73l7adtude6pq47uqvknxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21i73l7adtude6pq47uqvknxq&redirect=true)
-
