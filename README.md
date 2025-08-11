@@ -12,7 +12,7 @@
 <br>
 
 <h3>📈 Stats</h3>
-<p><img src="/github-metrics.svg" alt="Metrics"></p>
+<p><img src="/metrics.classic.svg" alt="Metrics"></p>
 
 <br>
 
