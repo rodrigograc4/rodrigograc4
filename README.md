@@ -40,5 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigograc4&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FFFFFF&theme=transparent&ring=65B927&sideNums=FFFFFF&currStreakNum=FFFFFF&fire=65B927&currStreakLabel=65B927&stroke=65B927&dates=285209&sideLabels=65B927" alt="rodrigograc4" /></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21i73l7adtude6pq47uqvknxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21i73l7adtude6pq47uqvknxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=21i73l7adtude6pq47uqvknxq&redirect=true)
