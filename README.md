@@ -11,7 +11,7 @@
 <a href="mailto:rodrigomgraca@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rodrigo graça"/></a>
 <a href="https://instagram.com/rodrigograc4" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="rodrigograc4"/></a>
 <a href="https://www.linkedin.com/in/rodrigograc4" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=inspire&logoColor=white" alt="rodrigograc4"/></a>
-<a href="https://rodrigograc4.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=openlayers&logoColor=white" alt="rodrigograc4.github.io"/></a>
+<a href="https://rodrigograc4.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=openlayers&logoColor=white" alt="rodrigograc4.github.io"/></a>
   
 </p>
 
