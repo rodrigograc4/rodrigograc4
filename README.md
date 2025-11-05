@@ -1,11 +1,11 @@
+
+
+<img src="./spiderman.png" width="300" align='right'>
+
 <h3>Hello World!</h3>
 <h4>Welcome to my github profile. 🍟</h4>
 
 <br />
-
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=21i73l7adtude6pq47uqvknxq&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21i73l7adtude6pq47uqvknxq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="250" align='right'>
-</a>
 
 <p>
   
